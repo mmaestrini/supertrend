@@ -19,7 +19,7 @@ node_modules/
 .DS_Store
 
 # Transpiled files
-build/
+# build/
 
 # .env you know
 .env
